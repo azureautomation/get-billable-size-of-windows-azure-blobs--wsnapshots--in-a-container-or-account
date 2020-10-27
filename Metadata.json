@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 6745,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/get-billable-size-of-windows-azure-blobs-(wsnapshots)-in-a-container-or-account/master/CalculateBlobCost.ps1",
+    "DownloadCount": 9225,
+    "Id": "Get-Billable-Size-of-32175802",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 113,
+    "RaterCount": 4,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Enumerates all blobs in either one container or one storage account and sums up all costs associated.  This includes all block and page blobs, all metadata on either blobs or containers.",
+    "Title": "Get Billable Size of Windows Azure Blobs (w/Snapshots) in a Container or Account",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/get-billable-size-of-windows-azure-blobs-(wsnapshots)-in-a-container-or-account",
+    "UserTags": "Utility, Capacity Management"
+}
